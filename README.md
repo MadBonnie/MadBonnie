@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/FernandaNoemiAM/FernandaNoemiAM/blob/main/Banner-2.jpeg" width="1280"/>
+  <img decoding="async" src="https://github.com/MadBonnie/MadBonnie/blob/main/LinkedIn%20banner.png" width="1280"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbafiz)
@@ -15,13 +15,13 @@
 ---
  <div id="header" align="left">
 
-### About me:
+### ¿Quién soy?
 Formado como Nutriólogo -pero ingresando al inmenso mundo de la tecnología, con pasión en los datos, la información y el storytelling. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :seedling: En constante aprendizaje :blue_book: y práctica continua :computer: SQL, Python y Power BI.
   
 ---
-### :hammer_and_wrench: Lenguages y Herramientas:
+### :hammer_and_wrench: Lenguajes y Herramientas:
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
